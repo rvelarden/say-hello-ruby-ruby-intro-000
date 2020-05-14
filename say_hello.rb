@@ -1,3 +1,3 @@
-def greeting(name)
-  puts "Hello #{name}!"
-end
+  def greeting(name)
+      puts say-hello-ruby
+    end
